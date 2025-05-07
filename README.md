@@ -27,15 +27,3 @@ This is a university project at Ho Chi Minh City University of Technology (HCMUT
 - Flask (planned for web)
 - YOLOv5 (fire detection)
 
-## Status
-
-- [x] Fire detection working
-- [x] UART communication done
-- [ ] Face recognition in progress
-- [ ] Web interface in progress
-
-## Author
-
-- [hungyle123](https://github.com/hungyle123)
-
-More features and updates coming soon.
